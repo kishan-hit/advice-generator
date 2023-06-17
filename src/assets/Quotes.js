@@ -5,6 +5,6 @@ const quotes = ["Spread love everywhere you go. Let no one ever come to you with
 "Be the change that you wish to see in the world.",
 "If you tell the truth, you don't have to remember anything.",
 "A friend is someone who knows all about you and still loves you",
-"The greatest glory in living lies not in never falling, but in rising every time we fall"];
+"The greatest glory in living lies not in never falling, but in rising every time we fall."];
 
 export default quotes;
